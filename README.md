@@ -1,7 +1,7 @@
 # PortFolio
 This Portfolio is a small project using HTML / CSS and Bootsrap. I will be using this to showcase my projects!
 
-[Live Heroku Deployment]()
+[Live Heroku Deployment](https://portfolio.desireewhitlow.repl.co/)
 
 
  <img width="1080" alt="image" src="https://github.com/dwhitlow11/portfolio/blob/main/img/Portfolio%20screenshot.png">
